@@ -1,0 +1,240 @@
+/* backgrounds*/
+.backp1{
+    background-color: maroon;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+.backp2{
+    background-color: turquoise;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+.backp3{
+    background-color: white;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+.backp4{
+    background-color:dimgray;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+ 
+/* menu*/
+.menup1{
+    background-color: black;
+    position: absolute;
+    width:100%;
+    height: 75px;
+    top: 25px;
+    left: 0px;
+    
+}
+.menup2{
+    background-color: black;
+    position: absolute;
+    width:100%;
+    height: 75px;
+    top: 25px;
+    left: 0px;
+}
+.menup3{
+    background-color: black;
+    position: absolute;
+    width:100%;
+    height: 75px;
+    top: 25px;
+    left: 0px;
+}
+.menup4{
+    background-color: black;
+    position: absolute;
+    width:100%;
+    height: 75px;
+    top: 25px;
+    left: 0px;
+}
+
+/* links*/
+.link1 a{
+    position: absolute;
+    left: 100px;
+    top: 25px;
+    color: white;
+}
+.link2 a{
+    position: absolute;
+    left: 300px;
+    top: 25px;
+    color: white;
+}
+.link3 a{
+    position: absolute;
+    left: 500px;
+    top: 25px;
+    color: white;
+}
+
+/* page1*/
+.poolphoto{
+    transform: scale(50%);
+    position: absolute;
+    top: 0px;
+    left: 100px;
+
+}
+.textp1{
+    background-color: white;
+    height: 50px;
+    width: 350px;
+    position: absolute;
+    top: 450px;
+    left: 500px;
+
+}
+.swimming{
+    background-color: white;
+    position: absolute;
+    height: 70px;
+    width: 200px;
+    top: 80px;
+    left: 550px;
+    text-align: center;
+}
+/* page2*/
+.title{
+    background-color: white;
+    height: 70px;
+    width: 350px;
+    position: absolute;
+    top: 100px;
+    left: 500px;
+}
+.pasta{
+   background-image: url(../assets/pasta.jpeg); 
+   position: absolute;
+   top: 200px;
+   left: 20px;
+   width: 50%;
+   height: 50%;
+   background-repeat: no-repeat;
+}
+.pastatxt{
+    background-color: white;
+    height: 40px;
+    width: 50px;
+    position: absolute;
+    top: 430px;
+    left: 100px;
+}
+.milk{
+    background-image: url(../assets/milk.jpeg);
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    width: 50%;
+    height: 50%;
+    background-repeat: no-repeat;
+}
+.milktxt{
+    background-color: white;
+    height: 30px;
+    width: 110px;
+    position: absolute;
+    top: 430px;
+    left: 350px;
+}
+.bar{
+    background-image: url(../assets/bar.jpeg);
+    position: absolute;
+    top: 200px;
+    left: 600px;
+    width: 50%;
+    height: 50%;
+    background-repeat: no-repeat;
+}
+.bartxt{
+    background-color: white;
+    height: 30px;
+    width: 110px;
+    position: absolute;
+    top: 430px;
+    left: 650px; 
+}
+.food{
+    background-color: white;
+    height: 40px;
+    width: 150px;
+    position: absolute;
+    top: 600px;
+    left: 650px;
+    text-align: center;
+    
+}
+    
+/* page3*/
+.under{
+    background-image: url(../assets/under.jpeg);
+    position:absolute;    
+    top: 550px;
+    left: 800px;
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    transform: scale(170%);
+}
+.pools{
+
+    position:absolute;
+    height: 60px;
+    width: 200px;
+    top: 600px;
+    left: 580px;
+}
+.title3{
+    position: absolute;
+    top: 130px;
+    left: 590px;
+    width: 150px;
+    height: 70px;
+}
+/*page4*/
+.title4{
+    position: absolute;
+    top: 150px;
+    left: 670px;
+    height: 60px;
+    width: 200px;
+}
+.tokyo{
+    background-image: url(../assets/2020.jpeg);
+    position: absolute;
+    left: -300px;
+    top: -550px;
+    width: 2000px;
+    height: 2000px;
+    background-repeat: no-repeat;
+    transform: scale(20%);
+
+}
+.linkp4{
+    position: absolute;
+    top: 650px;
+    left: 650px;
+    height: 60px;
+    width: 200px;
+
+
+}
